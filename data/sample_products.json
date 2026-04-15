@@ -1,0 +1,7 @@
+[
+  {"name": "Nike Air Max", "category": "Footwear", "brand": "Nike", "price": 4999, "rating": 4.5, "tags": "shoes running sports"},
+  {"name": "Levi's 511 Jeans", "category": "Clothing", "brand": "Levi's", "price": 2999, "rating": 4.2, "tags": "jeans denim casual"},
+  {"name": "Sony WH-1000XM5", "category": "Electronics", "brand": "Sony", "price": 24999, "rating": 4.8, "tags": "headphones wireless noise-cancelling"},
+  {"name": "The Alchemist Book", "category": "Books", "brand": "HarperCollins", "price": 299, "rating": 4.7, "tags": "novel fiction bestseller"},
+  {"name": "Instant Pot Duo", "category": "Kitchen", "brand": "Instant Pot", "price": 6499, "rating": 4.6, "tags": "cooker pressure-cooker kitchen"}
+]
